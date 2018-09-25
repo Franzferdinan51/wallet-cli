@@ -1,10 +1,10 @@
 # wallet-cli [![Build Status](https://travis-ci.org/tronprotocol/wallet-cli.svg?branch=master)](https://travis-ci.org/tronprotocol/wallet-cli)
 Wallet CLI
-
+forked from tronprotocol :D
 
 Download wallet-cli
 ---------------------------------
-git clone https://github.com/tronprotocol/wallet-cli.git
+git clone https://github.com/Franzferdinan51/wallet-cli.git
 
 
 Edit config.conf in src/main/resources
@@ -17,13 +17,13 @@ net {
 
 fullnode = {
   ip.list = [
-    "fullnode ip : port"
+    "54.39.77.209:50051"
   ]
 }
 
 soliditynode = {
   ip.list = [
-    "solidity ip : port"
+    "54.39.77.209:50041"
   ]
 }//note: solidity node is optional
 
