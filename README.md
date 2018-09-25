@@ -19,7 +19,7 @@ Download wallet-cli
 ---------------------------------
 git clone https://github.com/Franzferdinan51/wallet-cli.git
 
-
+#Our node is used by default your welcome to use it :)
 Edit config.conf in src/main/resources
 ----------------------------------------
 ```
