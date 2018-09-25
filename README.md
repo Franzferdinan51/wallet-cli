@@ -1,6 +1,19 @@
 # wallet-cli [![Build Status](https://travis-ci.org/tronprotocol/wallet-cli.svg?branch=master)](https://travis-ci.org/tronprotocol/wallet-cli)
 Wallet CLI
 forked from tronprotocol :D
+PRE-REQ
+First, add Oracle's PPA, then update your package repository.
+
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+Then, depending on the version you want to install, execute one of the following commands:
+
+Oracle JDK 8
+This is the latest stable version of Java at time of writing, and the recommended version to install. You can do so using the following command:
+
+sudo apt-get install oracle-java8-installer
+
+
 
 Download wallet-cli
 ---------------------------------
